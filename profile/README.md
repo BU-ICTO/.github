@@ -1,9 +1,30 @@
-![](assets/banner.webp)
+![Banner](assets/banner.webp)
 
-**Bicol University Information Communications Technology Office Official Programmer's Hub Github Page.**
+# Bicol University ICTO Programmer's Hub
 
-🐞 If you spot a bug in one of our systems, please contact *buicto.programmershub@bicol-u.edu.ph* and wait for assistance.
+Welcome to the official GitHub organization of the **Bicol University Information and Communications Technology Office (ICTO) Programmer's Hub**.
 
-🤔 If you have a question or feature request, please contact *buicto.programmershub@bicol-u.edu.ph* and wait for assistance.
+This space is dedicated to the development, maintenance, and collaboration on university-wide software systems and digital solutions.
 
-🔐 If you discover a vulnerability, please contact *buicto.programmershub@bicol-u.edu.ph* and wait for assistance. **Security Policy** will be soon posted here.
+## 📣 Contact
+
+- **Bug Reports & Feature Requests**  
+  Email: [buicto.programmershub@bicol-u.edu.ph](mailto:buicto.programmershub@bicol-u.edu.ph)
+
+- **Security & Vulnerabilities**  
+  Please report any potential security issues privately via email.
+
+---
+
+## 📌 Repository Guidelines
+
+- Use meaningful commit messages.
+- Follow defined coding standards.
+- Submit pull requests for all changes (no direct commits to `main`).
+- Include README and documentation per project.
+
+## 📄 License
+
+All repositories in this organization are governed by their respective LICENSE files. Unless otherwise stated, they are intended for official use within Bicol University.
+
+---
